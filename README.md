@@ -4,6 +4,10 @@ Niniejsze repozytorium zawiera dokumentację do projektu Translator API & GUI.
 
 ---
 
+## Link do dokumentacji
+
+https://kruk24.github.io/translator/
+
 ## Jak uruchomić dokumentację lokalnie
 
 ### 1. Zainstaluj wymagane pakiety
